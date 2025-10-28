@@ -1,0 +1,907 @@
+[2025-10-28 10:00:54.153] Domain name queried: coutureauchocolat.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.330] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.176930s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:54.304] Domain name queried: chonvn.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.482] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.177292s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:54.300] Domain name queried: ditrblog.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.478] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.178109s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:54.153] Domain name queried: 7dfps.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.332] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.179391s
+[2025-10-28 10:00:54.582] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (nelci.ns.cloudflare.com.) | Round-trip time: 0.170936s
+[2025-10-28 10:00:54.670] DNS server IP contacted: 108.162.194.152 (Authoritative) | Response or referral received: ANSWER (172.67.161.32) | Round-trip time: 0.087689s
+[2025-10-28 10:00:54.688] RESOLUTION_COMPLETE: 7dfps.com. | IP: 172.67.161.32 | Total time to resolution: 0.5356s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.173] Domain name queried: australiatradenow.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.370] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.197160s
+[2025-10-28 10:00:54.596] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns-250.awsdns-31.com.) | Round-trip time: 0.159894s
+[2025-10-28 10:00:54.698] DNS server IP contacted: 205.251.192.250 (Authoritative) | Response or referral received: ANSWER (52.221.30.142) | Round-trip time: 0.058898s
+[2025-10-28 10:00:54.698] RESOLUTION_COMPLETE: australiatradenow.com. | IP: 52.221.30.142 | Total time to resolution: 0.5258s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.148] Domain name queried: cetsi.fr. | Resolution mode: Iterative
+[2025-10-28 10:00:54.319] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (f.ext.nic.fr.) | Round-trip time: 0.170417s
+[2025-10-28 10:00:54.555] DNS server IP contacted: 194.146.106.46 (TLD) | Response or referral received: REFERRAL (ns3.cetsi.info.) | Round-trip time: 0.173301s
+[2025-10-28 10:00:54.747] DNS server IP contacted: 91.151.64.234 (Authoritative) | Response or referral received: ANSWER (91.151.64.24) | Round-trip time: 0.191855s
+[2025-10-28 10:00:54.747] RESOLUTION_COMPLETE: cetsi.fr. | IP: 91.151.64.24 | Total time to resolution: 0.5988s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.304] Domain name queried: caricsports.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.473] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.168687s
+[2025-10-28 10:00:54.652] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (connie.ns.cloudflare.com.) | Round-trip time: 0.170118s
+[2025-10-28 10:00:54.749] DNS server IP contacted: 108.162.192.247 (Authoritative) | Response or referral received: ANSWER (104.21.51.12) | Round-trip time: 0.060806s
+[2025-10-28 10:00:54.749] RESOLUTION_COMPLETE: caricsports.com. | IP: 104.21.51.12 | Total time to resolution: 0.4452s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.221] Domain name queried: chuamatsua.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.426] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.204084s
+[2025-10-28 10:00:54.596] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (cora.ns.cloudflare.com.) | Round-trip time: 0.159578s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:54.227] Domain name queried: camcard.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.415] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.184197s
+[2025-10-28 10:00:54.609] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns-48.awsdns-06.com.) | Round-trip time: 0.178857s
+[2025-10-28 10:00:54.766] DNS server IP contacted: 205.251.192.48 (Authoritative) | Response or referral received: ANSWER (184.169.200.40) | Round-trip time: 0.069537s
+[2025-10-28 10:00:54.785] RESOLUTION_COMPLETE: camcard.com. | IP: 184.169.200.40 | Total time to resolution: 0.5579s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.272] Domain name queried: asadventure.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.457] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.183039s
+[2025-10-28 10:00:54.674] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns-219.awsdns-27.com.) | Round-trip time: 0.216319s
+[2025-10-28 10:00:54.763] DNS server IP contacted: 205.251.192.219 (Authoritative) | Response or referral received: ANSWER (143.204.55.107) | Round-trip time: 0.067116s
+[2025-10-28 10:00:54.776] RESOLUTION_COMPLETE: asadventure.com. | IP: 143.204.55.107 | Total time to resolution: 0.5043s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.220] Domain name queried: diamondknot.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.421] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.201043s
+[2025-10-28 10:00:54.594] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns25.domaincontrol.com.) | Round-trip time: 0.161097s
+[2025-10-28 10:00:54.804] DNS server IP contacted: 97.74.102.13 (Authoritative) | Response or referral received: ANSWER (198.185.159.144) | Round-trip time: 0.189115s
+[2025-10-28 10:00:54.804] RESOLUTION_COMPLETE: diamondknot.com. | IP: 198.185.159.144 | Total time to resolution: 0.5841s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.216] Domain name queried: daehepharma.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.396] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.180118s
+[2025-10-28 10:00:54.624] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns01.dhrcenter.com.) | Round-trip time: 0.183420s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:54.458] Domain name queried: auqzzx.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.637] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.179269s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:54.219] Domain name queried: buynowfromusa.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.427] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.207704s
+[2025-10-28 10:00:54.607] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns-cloud-c1.googledomains.com.) | Round-trip time: 0.166463s
+[2025-10-28 10:00:54.856] DNS server IP contacted: 216.239.32.108 (Authoritative) | Response or referral received: ANSWER (35.223.118.1) | Round-trip time: 0.181343s
+[2025-10-28 10:00:54.868] RESOLUTION_COMPLETE: buynowfromusa.com. | IP: 35.223.118.1 | Total time to resolution: 0.6484s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.461] Domain name queried: dj-producer-j-mbargo.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.651] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.186209s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:54.256] Domain name queried: blueridgelife.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.432] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.176531s
+[2025-10-28 10:00:54.671] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns15.domaincontrol.com.) | Round-trip time: 0.230021s
+[2025-10-28 10:00:54.906] DNS server IP contacted: 97.74.107.8 (Authoritative) | Response or referral received: ANSWER (192.124.249.6) | Round-trip time: 0.209821s
+[2025-10-28 10:00:54.920] RESOLUTION_COMPLETE: blueridgelife.com. | IP: 192.124.249.6 | Total time to resolution: 0.6637s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.451] Domain name queried: amorefieldlife.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.639] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.182327s
+[2025-10-28 10:00:54.861] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.bluehost.com.) | Round-trip time: 0.178688s
+[2025-10-28 10:00:54.938] DNS server IP contacted: 162.159.24.80 (Authoritative) | Response or referral received: ANSWER (162.241.226.124) | Round-trip time: 0.066293s
+[2025-10-28 10:00:54.938] RESOLUTION_COMPLETE: amorefieldlife.com. | IP: 162.241.226.124 | Total time to resolution: 0.4873s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.442] Domain name queried: alchemedialtd.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.615] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.173064s
+[2025-10-28 10:00:54.845] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.a2hosting.com.) | Round-trip time: 0.162581s
+[2025-10-28 10:00:54.923] DNS server IP contacted: 13.248.158.180 (Authoritative) | Response or referral received: ANSWER (68.66.224.29) | Round-trip time: 0.072091s
+[2025-10-28 10:00:54.940] RESOLUTION_COMPLETE: alchemedialtd.com. | IP: 68.66.224.29 | Total time to resolution: 0.4982s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.428] Domain name queried: bikesandtransit.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.591] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.155123s
+[2025-10-28 10:00:54.847] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.wordpress.com.) | Round-trip time: 0.250799s
+[2025-10-28 10:00:54.939] DNS server IP contacted: 198.181.116.9 (Authoritative) | Response or referral received: ANSWER (192.0.78.25) | Round-trip time: 0.080072s
+[2025-10-28 10:00:54.940] RESOLUTION_COMPLETE: bikesandtransit.com. | IP: 192.0.78.25 | Total time to resolution: 0.5124s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.483] Domain name queried: 41latitude.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.670] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.186403s
+[2025-10-28 10:00:54.894] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (dns1.registrar-servers.com.) | Round-trip time: 0.181450s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:54.299] Domain name queried: datepanchang.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.465] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.165448s
+[2025-10-28 10:00:54.653] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (magnolia.ns.cloudflare.com.) | Round-trip time: 0.188164s
+[2025-10-28 10:00:54.998] DNS server IP contacted: 108.162.194.214 (Authoritative) | Response or referral received: ANSWER (13.75.93.156) | Round-trip time: 0.309100s
+[2025-10-28 10:00:55.006] RESOLUTION_COMPLETE: datepanchang.com. | IP: 13.75.93.156 | Total time to resolution: 0.7063s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.459] Domain name queried: afairjudgement.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.628] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.169696s
+[2025-10-28 10:00:54.882] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (gail.ns.cloudflare.com.) | Round-trip time: 0.192624s
+[2025-10-28 10:00:55.008] DNS server IP contacted: 108.162.192.116 (Authoritative) | Response or referral received: ANSWER (172.67.178.132) | Round-trip time: 0.115835s
+[2025-10-28 10:00:55.010] RESOLUTION_COMPLETE: afairjudgement.com. | IP: 172.67.178.132 | Total time to resolution: 0.5509s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.222] Domain name queried: alenpuaca.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.424] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.201232s
+[2025-10-28 10:00:54.593] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.dreamhost.com.) | Round-trip time: 0.160233s
+[2025-10-28 10:00:54.991] DNS server IP contacted: 162.159.26.14 (Authoritative) | Response or referral received: ANSWER (67.205.28.253) | Round-trip time: 0.334358s
+[2025-10-28 10:00:55.001] RESOLUTION_COMPLETE: alenpuaca.com. | IP: 67.205.28.253 | Total time to resolution: 0.7788s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.466] Domain name queried: b-matrix.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.664] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.197906s
+[2025-10-28 10:00:54.899] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns55.domaincontrol.com.) | Round-trip time: 0.197384s
+[2025-10-28 10:00:55.149] DNS server IP contacted: 97.74.107.28 (Authoritative) | Response or referral received: ANSWER (137.135.108.176) | Round-trip time: 0.211722s
+[2025-10-28 10:00:55.149] RESOLUTION_COMPLETE: b-matrix.com. | IP: 137.135.108.176 | Total time to resolution: 0.6831s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.799] Domain name queried: effexdjs.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.971] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.172110s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:54.467] Domain name queried: aqvr.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.649] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.182267s
+[2025-10-28 10:00:54.888] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (a.namestar.com.) | Round-trip time: 0.174456s
+[2025-10-28 10:00:55.237] DNS server IP contacted: 89.117.23.47 (Authoritative) | Response or referral received: ANSWER (89.117.19.57) | Round-trip time: 0.345104s
+[2025-10-28 10:00:55.237] RESOLUTION_COMPLETE: aqvr.com. | IP: 89.117.19.57 | Total time to resolution: 0.7701s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.758] Domain name queried: door2games.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.928] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.169375s
+[2025-10-28 10:00:55.135] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns45.domaincontrol.com.) | Round-trip time: 0.192352s
+[2025-10-28 10:00:55.381] DNS server IP contacted: 97.74.102.23 (Authoritative) | Response or referral received: ANSWER (160.153.0.43) | Round-trip time: 0.244737s
+[2025-10-28 10:00:55.383] RESOLUTION_COMPLETE: door2games.com. | IP: 160.153.0.43 | Total time to resolution: 0.6252s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:55.119] Domain name queried: eugenbotnar.com. | Resolution mode: Iterative
+[2025-10-28 10:00:55.337] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.217424s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:55.402] Domain name queried: globalpoliticalspectrum.com. | Resolution mode: Iterative
+[2025-10-28 10:00:55.602] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.198731s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:55.211] Domain name queried: forpsi.net. | Resolution mode: Iterative
+[2025-10-28 10:00:55.399] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.187465s
+[2025-10-28 10:00:55.592] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ns.forpsi.net.) | Round-trip time: 0.191458s
+[2025-10-28 10:00:55.782] DNS server IP contacted: 81.2.194.130 (Authoritative) | Response or referral received: ANSWER (85.255.6.237) | Round-trip time: 0.189029s
+[2025-10-28 10:00:55.782] RESOLUTION_COMPLETE: forpsi.net. | IP: 85.255.6.237 | Total time to resolution: 0.5707s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:55.256] Domain name queried: gamemob.com. | Resolution mode: Iterative
+[2025-10-28 10:00:55.434] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.177561s
+[2025-10-28 10:00:55.623] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns01.domaincontrol.com.) | Round-trip time: 0.183323s
+[2025-10-28 10:00:55.812] DNS server IP contacted: 97.74.100.1 (Authoritative) | Response or referral received: ANSWER (3.33.130.190) | Round-trip time: 0.185491s
+[2025-10-28 10:00:55.812] RESOLUTION_COMPLETE: gamemob.com. | IP: 3.33.130.190 | Total time to resolution: 0.5559s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:55.364] Domain name queried: gensee.com. | Resolution mode: Iterative
+[2025-10-28 10:00:55.552] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.176715s
+[2025-10-28 10:00:55.747] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.dnsv5.com.) | Round-trip time: 0.193952s
+[2025-10-28 10:00:55.857] DNS server IP contacted: 1.12.0.17 (Authoritative) | Response or referral received: ANSWER (211.150.89.25) | Round-trip time: 0.104124s
+[2025-10-28 10:00:55.858] RESOLUTION_COMPLETE: gensee.com. | IP: 211.150.89.25 | Total time to resolution: 0.4934s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:55.386] Domain name queried: hornil.com. | Resolution mode: Iterative
+[2025-10-28 10:00:55.567] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.180709s
+[2025-10-28 10:00:55.737] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns2.cafe24.com.) | Round-trip time: 0.159738s
+[2025-10-28 10:00:55.924] DNS server IP contacted: 1.226.85.4 (Authoritative) | Response or referral received: ANSWER (183.111.138.226) | Round-trip time: 0.184747s
+[2025-10-28 10:00:55.942] RESOLUTION_COMPLETE: hornil.com. | IP: 183.111.138.226 | Total time to resolution: 0.5565s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:55.373] Domain name queried: healthnews4you.com. | Resolution mode: Iterative
+[2025-10-28 10:00:55.573] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.196899s
+[2025-10-28 10:00:55.731] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns66.domaincontrol.com.) | Round-trip time: 0.152100s
+[2025-10-28 10:00:55.925] DNS server IP contacted: 173.201.70.43 (Authoritative) | Response or referral received: ANSWER (3.33.130.190) | Round-trip time: 0.194002s
+[2025-10-28 10:00:55.943] RESOLUTION_COMPLETE: healthnews4you.com. | IP: 3.33.130.190 | Total time to resolution: 0.5699s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:55.376] Domain name queried: group14eng.com. | Resolution mode: Iterative
+[2025-10-28 10:00:55.595] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.215953s
+[2025-10-28 10:00:55.758] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns09.domaincontrol.com.) | Round-trip time: 0.154734s
+[2025-10-28 10:00:55.951] DNS server IP contacted: 97.74.104.5 (Authoritative) | Response or referral received: ANSWER (192.124.249.164) | Round-trip time: 0.188657s
+[2025-10-28 10:00:55.951] RESOLUTION_COMPLETE: group14eng.com. | IP: 192.124.249.164 | Total time to resolution: 0.5744s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:55.243] Domain name queried: fini.net. | Resolution mode: Iterative
+[2025-10-28 10:00:55.415] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.171653s
+[2025-10-28 10:00:55.603] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ca0.fini.net.) | Round-trip time: 0.175960s
+[2025-10-28 10:00:55.921] DNS server IP contacted: 198.57.196.96 (Authoritative) | Response or referral received: ANSWER (198.57.192.137) | Round-trip time: 0.316926s
+[2025-10-28 10:00:55.952] RESOLUTION_COMPLETE: fini.net. | IP: 198.57.192.137 | Total time to resolution: 0.7093s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:55.404] Domain name queried: gusbi.com. | Resolution mode: Iterative
+[2025-10-28 10:00:55.596] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.192100s
+[2025-10-28 10:00:55.772] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.aversus.com.) | Round-trip time: 0.168324s
+[2025-10-28 10:00:55.963] DNS server IP contacted: 141.95.229.94 (Authoritative) | Response or referral received: ANSWER (185.145.195.19) | Round-trip time: 0.189119s
+[2025-10-28 10:00:55.970] RESOLUTION_COMPLETE: gusbi.com. | IP: 185.145.195.19 | Total time to resolution: 0.5656s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.449] Domain name queried: afresnohomeinspector.com. | Resolution mode: Iterative
+[2025-10-28 10:00:54.633] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.182702s
+[2025-10-28 10:00:54.839] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.homeinspectorpro.org.) | Round-trip time: 0.157639s
+[2025-10-28 10:00:54.840] Resolving NS record: ns1.homeinspectorpro.org.
+[2025-10-28 10:00:55.017] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a2.org.afilias-nst.info.) | Round-trip time: 0.177165s
+[2025-10-28 10:00:55.153] DNS server IP contacted: 199.249.112.1 (TLD) | Response or referral received: REFERRAL (ns1.homeinspectorpro.org.) | Round-trip time: 0.132607s
+[2025-10-28 10:00:55.477] DNS server IP contacted: 67.225.203.78 (Authoritative) | Response or referral received: ANSWER (67.225.203.78) | Round-trip time: 0.324528s
+[2025-10-28 10:00:55.477] Resolving NS record: ns2.homeinspectorpro.org.
+[2025-10-28 10:00:55.644] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a2.org.afilias-nst.info.) | Round-trip time: 0.166020s
+[2025-10-28 10:00:55.753] DNS server IP contacted: 199.249.112.1 (TLD) | Response or referral received: REFERRAL (ns1.homeinspectorpro.org.) | Round-trip time: 0.108985s
+[2025-10-28 10:00:56.064] DNS server IP contacted: 67.225.203.78 (Authoritative) | Response or referral received: ANSWER (67.225.203.79) | Round-trip time: 0.305618s
+[2025-10-28 10:00:56.371] DNS server IP contacted: 67.225.203.78 (Authoritative) | Response or referral received: ANSWER (67.225.203.79) | Round-trip time: 0.306821s
+[2025-10-28 10:00:56.377] RESOLUTION_COMPLETE: afresnohomeinspector.com. | IP: 67.225.203.79 | Total time to resolution: 1.9279s | SERVERS_VISITED: 9
+
+[2025-10-28 10:00:56.161] Domain name queried: kennethehartman.com. | Resolution mode: Iterative
+[2025-10-28 10:00:56.328] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.166507s
+[2025-10-28 10:00:56.530] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.wordpress.com.) | Round-trip time: 0.175755s
+[2025-10-28 10:00:56.596] DNS server IP contacted: 198.181.116.9 (Authoritative) | Response or referral received: ANSWER (192.0.78.24) | Round-trip time: 0.059555s
+[2025-10-28 10:00:56.597] RESOLUTION_COMPLETE: kennethehartman.com. | IP: 192.0.78.24 | Total time to resolution: 0.4359s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:56.427] Domain name queried: linksplash.info. | Resolution mode: Iterative
+[2025-10-28 10:00:56.586] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (b0.info.afilias-nst.org.) | Round-trip time: 0.158303s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:56.158] Domain name queried: kh.ua. | Resolution mode: Iterative
+[2025-10-28 10:00:56.351] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (bg.ns.ua.) | Round-trip time: 0.193055s
+[2025-10-28 10:00:56.489] DNS server IP contacted: 185.136.97.185 (TLD) | Response or referral received: REFERRAL (ns.net.ua.) | Round-trip time: 0.121213s
+[2025-10-28 10:00:56.656] DNS server IP contacted: 194.58.197.4 (Authoritative) | Response or referral received: ANSWER (195.69.185.211) | Round-trip time: 0.165039s
+[2025-10-28 10:00:56.660] RESOLUTION_COMPLETE: kh.ua. | IP: 195.69.185.211 | Total time to resolution: 0.5015s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:54.446] Domain name queried: 2brightsparks.co.uk. | Resolution mode: Iterative
+[2025-10-28 10:00:54.673] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (dns1.nic.uk.) | Round-trip time: 0.226718s
+[2025-10-28 10:00:54.898] DNS server IP contacted: 213.248.216.1 (TLD) | Response or referral received: REFERRAL (ns-343.awsdns-42.com.) | Round-trip time: 0.196992s
+[2025-10-28 10:00:54.909] Resolving NS record: ns-343.awsdns-42.com.
+[2025-10-28 10:00:55.092] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.183071s
+[2025-10-28 10:00:55.320] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (g-ns-43.awsdns-42.com.) | Round-trip time: 0.220782s
+[2025-10-28 10:00:55.436] DNS server IP contacted: 205.251.192.43 (Authoritative) | Response or referral received: ANSWER (205.251.193.87) | Round-trip time: 0.094622s
+[2025-10-28 10:00:55.448] Resolving NS record: ns-940.awsdns-53.net.
+[2025-10-28 10:00:55.623] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.172706s
+[2025-10-28 10:00:55.787] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (g-ns-502.awsdns-53.net.) | Round-trip time: 0.161761s
+[2025-10-28 10:00:55.853] DNS server IP contacted: 205.251.193.246 (Authoritative) | Response or referral received: ANSWER (205.251.195.172) | Round-trip time: 0.065342s
+[2025-10-28 10:00:55.855] Resolving NS record: ns-1054.awsdns-03.org.
+[2025-10-28 10:00:56.028] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a2.org.afilias-nst.info.) | Round-trip time: 0.173247s
+[2025-10-28 10:00:56.151] DNS server IP contacted: 199.249.112.1 (TLD) | Response or referral received: REFERRAL (g-ns-131.awsdns-03.org.) | Round-trip time: 0.116666s
+[2025-10-28 10:00:56.199] DNS server IP contacted: 205.251.192.131 (Authoritative) | Response or referral received: ANSWER (205.251.196.30) | Round-trip time: 0.048484s
+[2025-10-28 10:00:56.199] Resolving NS record: ns-1782.awsdns-30.co.uk.
+[2025-10-28 10:00:56.377] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (dns1.nic.uk.) | Round-trip time: 0.173371s
+[2025-10-28 10:00:56.554] DNS server IP contacted: 213.248.216.1 (TLD) | Response or referral received: REFERRAL (g-ns-350.awsdns-30.co.uk.) | Round-trip time: 0.176731s
+[2025-10-28 10:00:56.606] DNS server IP contacted: 205.251.193.94 (Authoritative) | Response or referral received: ANSWER (205.251.198.246) | Round-trip time: 0.051631s
+[2025-10-28 10:00:56.667] DNS server IP contacted: 205.251.193.87 (Authoritative) | Response or referral received: ANSWER (143.204.55.7) | Round-trip time: 0.059126s
+[2025-10-28 10:00:56.667] RESOLUTION_COMPLETE: 2brightsparks.co.uk. | IP: 143.204.55.7 | Total time to resolution: 2.2211s | SERVERS_VISITED: 15
+
+[2025-10-28 10:00:56.180] Domain name queried: kathihill.com. | Resolution mode: Iterative
+[2025-10-28 10:00:56.366] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.184993s
+[2025-10-28 10:00:56.529] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.digitalocean.com.) | Round-trip time: 0.161656s
+[2025-10-28 10:00:56.681] DNS server IP contacted: 172.64.52.210 (Authoritative) | Response or referral received: ANSWER (159.65.187.116) | Round-trip time: 0.145073s
+[2025-10-28 10:00:56.681] RESOLUTION_COMPLETE: kathihill.com. | IP: 159.65.187.116 | Total time to resolution: 0.5013s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:55.428] Domain name queried: i-butterfly.ru. | Resolution mode: Iterative
+[2025-10-28 10:00:55.599] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.ripn.net.) | Round-trip time: 0.169080s
+[2025-10-28 10:00:55.840] DNS server IP contacted: 193.232.128.6 (TLD) | Response or referral received: REFERRAL (fred.ns.cloudflare.com.) | Round-trip time: 0.236604s
+[2025-10-28 10:00:55.841] Resolving NS record: fred.ns.cloudflare.com.
+[2025-10-28 10:00:56.008] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.167285s
+[2025-10-28 10:00:56.188] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.cloudflare.com.) | Round-trip time: 0.171115s
+[2025-10-28 10:00:56.239] DNS server IP contacted: 162.159.0.33 (Authoritative) | Response or referral received: ANSWER (172.64.33.113) | Round-trip time: 0.049994s
+[2025-10-28 10:00:56.239] Resolving NS record: sofia.ns.cloudflare.com.
+[2025-10-28 10:00:56.398] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.156934s
+[2025-10-28 10:00:56.568] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.cloudflare.com.) | Round-trip time: 0.157147s
+[2025-10-28 10:00:56.623] DNS server IP contacted: 162.159.0.33 (Authoritative) | Response or referral received: ANSWER (108.162.192.223) | Round-trip time: 0.054257s
+[2025-10-28 10:00:56.682] DNS server IP contacted: 172.64.33.113 (Authoritative) | Response or referral received: ANSWER (172.67.151.138) | Round-trip time: 0.059240s
+[2025-10-28 10:00:56.682] RESOLUTION_COMPLETE: i-butterfly.ru. | IP: 172.67.151.138 | Total time to resolution: 1.2548s | SERVERS_VISITED: 9
+
+[2025-10-28 10:00:54.239] Domain name queried: astrumonline.ru. | Resolution mode: Iterative
+[2025-10-28 10:00:54.423] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.ripn.net.) | Round-trip time: 0.183075s
+[2025-10-28 10:00:54.674] DNS server IP contacted: 193.232.128.6 (TLD) | Response or referral received: REFERRAL (opr-ns2.astrumnival.com.) | Round-trip time: 0.238117s
+[2025-10-28 10:00:54.695] Resolving NS record: opr-ns2.astrumnival.com.
+[2025-10-28 10:00:54.874] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.178673s
+[2025-10-28 10:00:55.060] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (opr-ns1.astrumnival.com.) | Round-trip time: 0.170308s
+[2025-10-28 10:00:55.324] DNS server IP contacted: 195.211.130.10 (Authoritative) | Response or referral received: ANSWER (195.211.129.1) | Round-trip time: 0.261738s
+[2025-10-28 10:00:55.355] Resolving NS record: opr-ns1.astrumnival.com.
+[2025-10-28 10:00:55.525] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.165685s
+[2025-10-28 10:00:55.690] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (opr-ns1.astrumnival.com.) | Round-trip time: 0.163016s
+[2025-10-28 10:00:55.924] DNS server IP contacted: 195.211.130.10 (Authoritative) | Response or referral received: ANSWER (195.211.130.10) | Round-trip time: 0.232071s
+[2025-10-28 10:00:55.941] Resolving NS record: opr-ns3.astrumnival.com.
+[2025-10-28 10:00:56.112] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.169507s
+[2025-10-28 10:00:56.293] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (opr-ns1.astrumnival.com.) | Round-trip time: 0.169533s
+[2025-10-28 10:00:56.510] DNS server IP contacted: 195.211.130.10 (Authoritative) | Response or referral received: ANSWER (195.211.129.10) | Round-trip time: 0.215877s
+[2025-10-28 10:00:56.745] DNS server IP contacted: 195.211.129.1 (Authoritative) | Response or referral received: ANSWER (217.69.136.59) | Round-trip time: 0.229238s
+[2025-10-28 10:00:56.745] RESOLUTION_COMPLETE: astrumonline.ru. | IP: 217.69.136.59 | Total time to resolution: 2.5053s | SERVERS_VISITED: 12
+
+[2025-10-28 10:00:56.144] Domain name queried: junio.com. | Resolution mode: Iterative
+[2025-10-28 10:00:56.319] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.175032s
+[2025-10-28 10:00:56.528] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.epik.com.) | Round-trip time: 0.185655s
+[2025-10-28 10:00:56.864] DNS server IP contacted: 209.196.146.153 (Authoritative) | Response or referral received: ANSWER (209.196.144.25) | Round-trip time: 0.328251s
+[2025-10-28 10:00:56.864] RESOLUTION_COMPLETE: junio.com. | IP: 209.196.144.25 | Total time to resolution: 0.7200s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:55.386] Domain name queried: hemcolubricants.com. | Resolution mode: Iterative
+[2025-10-28 10:00:55.557] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.169735s
+[2025-10-28 10:00:55.728] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.loopia.se.) | Round-trip time: 0.170344s
+[2025-10-28 10:00:55.728] Resolving NS record: ns1.loopia.se.
+[2025-10-28 10:00:55.974] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (f.ns.se.) | Round-trip time: 0.246164s
+[2025-10-28 10:00:56.158] DNS server IP contacted: 192.71.53.53 (TLD) | Response or referral received: REFERRAL (ns1.loopia.se.) | Round-trip time: 0.178706s
+[2025-10-28 10:00:56.354] DNS server IP contacted: 93.188.0.20 (Authoritative) | Response or referral received: ANSWER (93.188.0.20) | Round-trip time: 0.195743s
+[2025-10-28 10:00:56.366] Resolving NS record: ns2.loopia.se.
+[2025-10-28 10:00:56.520] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (f.ns.se.) | Round-trip time: 0.154041s
+[2025-10-28 10:00:56.704] DNS server IP contacted: 192.71.53.53 (TLD) | Response or referral received: REFERRAL (ns1.loopia.se.) | Round-trip time: 0.173348s
+[2025-10-28 10:00:56.895] DNS server IP contacted: 93.188.0.20 (Authoritative) | Response or referral received: ANSWER (185.71.156.20) | Round-trip time: 0.189167s
+[2025-10-28 10:00:57.083] DNS server IP contacted: 93.188.0.20 (Authoritative) | Response or referral received: ANSWER (194.9.94.85) | Round-trip time: 0.182594s
+[2025-10-28 10:00:57.087] RESOLUTION_COMPLETE: hemcolubricants.com. | IP: 194.9.94.85 | Total time to resolution: 1.7006s | SERVERS_VISITED: 9
+
+[2025-10-28 10:00:54.943] Domain name queried: energybulbs.co.uk. | Resolution mode: Iterative
+[2025-10-28 10:00:55.135] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (dns1.nic.uk.) | Round-trip time: 0.191109s
+[2025-10-28 10:00:55.373] DNS server IP contacted: 213.248.216.1 (TLD) | Response or referral received: REFERRAL (ns0.lcn.com.) | Round-trip time: 0.237006s
+[2025-10-28 10:00:55.376] Resolving NS record: ns0.lcn.com.
+[2025-10-28 10:00:55.531] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.154982s
+[2025-10-28 10:00:55.695] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns0.lcn.com.) | Round-trip time: 0.163703s
+[2025-10-28 10:00:55.871] DNS server IP contacted: 195.110.124.234 (Authoritative) | Response or referral received: ANSWER (195.110.124.234) | Round-trip time: 0.176383s
+[2025-10-28 10:00:55.872] Resolving NS record: ns1.lcn.com.
+[2025-10-28 10:00:56.031] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.158867s
+[2025-10-28 10:00:56.215] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns0.lcn.com.) | Round-trip time: 0.166632s
+[2025-10-28 10:00:56.410] DNS server IP contacted: 195.110.124.234 (Authoritative) | Response or referral received: ANSWER (85.233.160.69) | Round-trip time: 0.194618s
+[2025-10-28 10:00:56.411] Resolving NS record: ns2.lcn.com.
+[2025-10-28 10:00:56.566] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.155189s
+[2025-10-28 10:00:56.731] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns0.lcn.com.) | Round-trip time: 0.163278s
+[2025-10-28 10:00:56.920] DNS server IP contacted: 195.110.124.234 (Authoritative) | Response or referral received: ANSWER (91.186.2.8) | Round-trip time: 0.188268s
+[2025-10-28 10:00:57.110] DNS server IP contacted: 195.110.124.234 (Authoritative) | Response or referral received: ANSWER (23.227.38.32) | Round-trip time: 0.182342s
+[2025-10-28 10:00:57.131] RESOLUTION_COMPLETE: energybulbs.co.uk. | IP: 23.227.38.32 | Total time to resolution: 2.1875s | SERVERS_VISITED: 12
+
+[2025-10-28 10:00:56.685] Domain name queried: livelinks.com. | Resolution mode: Iterative
+[2025-10-28 10:00:56.872] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.186785s
+[2025-10-28 10:00:57.043] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns-368.awsdns-46.com.) | Round-trip time: 0.170892s
+[2025-10-28 10:00:57.116] DNS server IP contacted: 205.251.193.112 (Authoritative) | Response or referral received: ANSWER (108.158.61.76) | Round-trip time: 0.068610s
+[2025-10-28 10:00:57.146] RESOLUTION_COMPLETE: livelinks.com. | IP: 108.158.61.76 | Total time to resolution: 0.4614s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:56.841] Domain name queried: memeblender.com. | Resolution mode: Iterative
+[2025-10-28 10:00:57.021] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.180823s
+[2025-10-28 10:00:57.199] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (tara.ns.cloudflare.com.) | Round-trip time: 0.177775s
+[2025-10-28 10:00:57.270] DNS server IP contacted: 108.162.192.225 (Authoritative) | Response or referral received: ANSWER (172.67.136.240) | Round-trip time: 0.070704s
+[2025-10-28 10:00:57.271] RESOLUTION_COMPLETE: memeblender.com. | IP: 172.67.136.240 | Total time to resolution: 0.4300s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:56.052] Domain name queried: jantv.in. | Resolution mode: Iterative
+[2025-10-28 10:00:56.244] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (ns10.trs-dns.org.) | Round-trip time: 0.188905s
+[2025-10-28 10:00:56.288] DNS server IP contacted: 64.78.205.1 (TLD) | Response or referral received: REFERRAL (cora.ns.cloudflare.com.) | Round-trip time: 0.044333s
+[2025-10-28 10:00:56.288] Resolving NS record: cora.ns.cloudflare.com.
+[2025-10-28 10:00:56.469] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.180377s
+[2025-10-28 10:00:56.634] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.cloudflare.com.) | Round-trip time: 0.163408s
+[2025-10-28 10:00:56.714] DNS server IP contacted: 162.159.0.33 (Authoritative) | Response or referral received: ANSWER (108.162.194.195) | Round-trip time: 0.071984s
+[2025-10-28 10:00:56.725] Resolving NS record: odin.ns.cloudflare.com.
+[2025-10-28 10:00:56.911] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.185806s
+[2025-10-28 10:00:57.087] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.cloudflare.com.) | Round-trip time: 0.160815s
+[2025-10-28 10:00:57.205] DNS server IP contacted: 162.159.0.33 (Authoritative) | Response or referral received: ANSWER (172.64.35.208) | Round-trip time: 0.105460s
+[2025-10-28 10:00:57.276] DNS server IP contacted: 108.162.194.195 (Authoritative) | Response or referral received: ANSWER (104.21.5.51) | Round-trip time: 0.070948s
+[2025-10-28 10:00:57.277] RESOLUTION_COMPLETE: jantv.in. | IP: 104.21.5.51 | Total time to resolution: 1.2245s | SERVERS_VISITED: 9
+
+[2025-10-28 10:00:56.865] Domain name queried: lozo.com. | Resolution mode: Iterative
+[2025-10-28 10:00:57.040] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.175641s
+[2025-10-28 10:00:57.208] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns-7.awsdns-00.com.) | Round-trip time: 0.162048s
+[2025-10-28 10:00:57.275] DNS server IP contacted: 205.251.192.7 (Authoritative) | Response or referral received: ANSWER (107.21.144.47) | Round-trip time: 0.067286s
+[2025-10-28 10:00:57.276] RESOLUTION_COMPLETE: lozo.com. | IP: 107.21.144.47 | Total time to resolution: 0.4114s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:56.868] Domain name queried: luckypuppygames.com. | Resolution mode: Iterative
+[2025-10-28 10:00:57.059] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.191534s
+[2025-10-28 10:00:57.241] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.parklogic.com.) | Round-trip time: 0.178566s
+[2025-10-28 10:00:57.459] DNS server IP contacted: 185.67.45.231 (Authoritative) | Response or referral received: ANSWER (172.237.146.38) | Round-trip time: 0.201391s
+[2025-10-28 10:00:57.459] RESOLUTION_COMPLETE: luckypuppygames.com. | IP: 172.237.146.38 | Total time to resolution: 0.5914s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:57.266] Domain name queried: monsterhomesecuritystore.com. | Resolution mode: Iterative
+[2025-10-28 10:00:57.437] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.168809s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:57.284] Domain name queried: mysearch-online.com. | Resolution mode: Iterative
+[2025-10-28 10:00:57.480] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.196338s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:57.278] Domain name queried: mwzip.com. | Resolution mode: Iterative
+[2025-10-28 10:00:57.448] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.170586s
+[2025-10-28 10:00:57.624] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (drew.ns.cloudflare.com.) | Round-trip time: 0.170851s
+[2025-10-28 10:00:57.677] DNS server IP contacted: 108.162.193.160 (Authoritative) | Response or referral received: ANSWER (172.67.194.102) | Round-trip time: 0.053273s
+[2025-10-28 10:00:57.678] RESOLUTION_COMPLETE: mwzip.com. | IP: 172.67.194.102 | Total time to resolution: 0.3999s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:56.932] Domain name queried: michiganbulb.com. | Resolution mode: Iterative
+[2025-10-28 10:00:57.122] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.190174s
+[2025-10-28 10:00:57.330] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns83.worldnic.com.) | Round-trip time: 0.171428s
+[2025-10-28 10:00:57.702] DNS server IP contacted: 162.159.26.131 (Authoritative) | Response or referral received: ANSWER (208.27.142.168) | Round-trip time: 0.356699s
+[2025-10-28 10:00:57.702] RESOLUTION_COMPLETE: michiganbulb.com. | IP: 208.27.142.168 | Total time to resolution: 0.7698s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:55.979] Domain name queried: informarexresistere.fr. | Resolution mode: Iterative
+[2025-10-28 10:00:56.177] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (f.ext.nic.fr.) | Round-trip time: 0.182880s
+[2025-10-28 10:00:56.360] DNS server IP contacted: 194.146.106.46 (TLD) | Response or referral received: REFERRAL (dns100.ovh.net.) | Round-trip time: 0.180295s
+[2025-10-28 10:00:56.367] Resolving NS record: dns100.ovh.net.
+[2025-10-28 10:00:56.544] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.177353s
+[2025-10-28 10:00:56.713] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ns10.ovh.net.) | Round-trip time: 0.165997s
+[2025-10-28 10:00:56.918] DNS server IP contacted: 5.39.20.253 (Authoritative) | Response or referral received: ANSWER (5.135.250.177) | Round-trip time: 0.195325s
+[2025-10-28 10:00:56.927] Resolving NS record: ns100.ovh.net.
+[2025-10-28 10:00:57.138] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.210479s
+[2025-10-28 10:00:57.325] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ns10.ovh.net.) | Round-trip time: 0.165763s
+[2025-10-28 10:00:57.543] DNS server IP contacted: 5.39.20.253 (Authoritative) | Response or referral received: ANSWER (5.135.44.185) | Round-trip time: 0.204540s
+[2025-10-28 10:00:57.731] DNS server IP contacted: 5.135.250.177 (Authoritative) | Response or referral received: ANSWER (178.32.143.165) | Round-trip time: 0.185831s
+[2025-10-28 10:00:57.731] RESOLUTION_COMPLETE: informarexresistere.fr. | IP: 178.32.143.165 | Total time to resolution: 1.7522s | SERVERS_VISITED: 9
+
+[2025-10-28 10:00:57.423] Domain name queried: newstetic.com. | Resolution mode: Iterative
+[2025-10-28 10:00:57.588] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.165135s
+[2025-10-28 10:00:57.764] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (duke.ns.cloudflare.com.) | Round-trip time: 0.173205s
+[2025-10-28 10:00:57.832] DNS server IP contacted: 108.162.193.110 (Authoritative) | Response or referral received: ANSWER (172.67.131.89) | Round-trip time: 0.067536s
+[2025-10-28 10:00:57.832] RESOLUTION_COMPLETE: newstetic.com. | IP: 172.67.131.89 | Total time to resolution: 0.4094s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:57.453] Domain name queried: niceinternetmoney.ru. | Resolution mode: Iterative
+[2025-10-28 10:00:57.618] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.ripn.net.) | Round-trip time: 0.162929s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:57.456] Domain name queried: o-ov.com. | Resolution mode: Iterative
+[2025-10-28 10:00:57.630] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.174403s
+[2025-10-28 10:00:57.796] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns09.domaincontrol.com.) | Round-trip time: 0.162109s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:57.511] Domain name queried: ondemandappliancerepair.com. | Resolution mode: Iterative
+[2025-10-28 10:00:57.672] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.160955s
+[2025-10-28 10:00:57.839] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1050.ui-dns.biz.) | Round-trip time: 0.162745s
+[2025-10-28 10:00:58.010] DNS server IP contacted: 217.160.82.63 (Authoritative) | Response or referral received: ANSWER (74.208.236.102) | Round-trip time: 0.170952s
+[2025-10-28 10:00:58.010] RESOLUTION_COMPLETE: ondemandappliancerepair.com. | IP: 74.208.236.102 | Total time to resolution: 0.4989s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:56.835] Domain name queried: localhost.re. | Resolution mode: Iterative
+[2025-10-28 10:00:57.003] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (d.nic.fr.) | Round-trip time: 0.167345s
+[2025-10-28 10:00:57.192] DNS server IP contacted: 194.0.9.1 (TLD) | Response or referral received: REFERRAL (megan.ns.cloudflare.com.) | Round-trip time: 0.188699s
+[2025-10-28 10:00:57.192] Resolving NS record: megan.ns.cloudflare.com.
+[2025-10-28 10:00:57.368] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.175343s
+[2025-10-28 10:00:57.555] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.cloudflare.com.) | Round-trip time: 0.185838s
+[2025-10-28 10:00:57.604] DNS server IP contacted: 162.159.0.33 (Authoritative) | Response or referral received: ANSWER (108.162.192.197) | Round-trip time: 0.048064s
+[2025-10-28 10:00:57.606] Resolving NS record: hassan.ns.cloudflare.com.
+[2025-10-28 10:00:57.774] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.167870s
+[2025-10-28 10:00:57.978] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.cloudflare.com.) | Round-trip time: 0.199363s
+[2025-10-28 10:00:58.029] DNS server IP contacted: 162.159.0.33 (Authoritative) | Response or referral received: ANSWER (172.64.35.149) | Round-trip time: 0.051056s
+[2025-10-28 10:00:58.103] DNS server IP contacted: 108.162.192.197 (Authoritative) | Response or referral received: ANSWER (172.67.163.57) | Round-trip time: 0.064514s
+[2025-10-28 10:00:58.103] RESOLUTION_COMPLETE: localhost.re. | IP: 172.67.163.57 | Total time to resolution: 1.2679s | SERVERS_VISITED: 9
+
+[2025-10-28 10:00:55.998] Domain name queried: interfloracentral.co.uk. | Resolution mode: Iterative
+[2025-10-28 10:00:56.170] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (dns1.nic.uk.) | Round-trip time: 0.168139s
+[2025-10-28 10:00:56.360] DNS server IP contacted: 213.248.216.1 (TLD) | Response or referral received: REFERRAL (dns01.eliteukserve.net.) | Round-trip time: 0.189297s
+[2025-10-28 10:00:56.367] Resolving NS record: dns01.eliteukserve.net.
+[2025-10-28 10:00:56.527] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.160288s
+[2025-10-28 10:00:56.711] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (dns01.eliteukserve.net.) | Round-trip time: 0.174527s
+[2025-10-28 10:00:56.917] DNS server IP contacted: 217.68.241.1 (Authoritative) | Response or referral received: ANSWER (217.68.241.1) | Round-trip time: 0.200564s
+[2025-10-28 10:00:56.927] Resolving NS record: dns02.eliteukserve.net.
+[2025-10-28 10:00:57.078] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.151410s
+[2025-10-28 10:00:57.249] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (dns01.eliteukserve.net.) | Round-trip time: 0.170349s
+[2025-10-28 10:00:57.441] DNS server IP contacted: 217.68.241.1 (Authoritative) | Response or referral received: ANSWER (217.68.242.1) | Round-trip time: 0.176776s
+[2025-10-28 10:00:57.451] Resolving NS record: dns03.eliteukserve.net.
+[2025-10-28 10:00:57.613] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.160510s
+[2025-10-28 10:00:57.778] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (dns01.eliteukserve.net.) | Round-trip time: 0.163755s
+[2025-10-28 10:00:57.968] DNS server IP contacted: 217.68.241.1 (Authoritative) | Response or referral received: ANSWER (217.68.243.1) | Round-trip time: 0.172650s
+[2025-10-28 10:00:58.151] DNS server IP contacted: 217.68.241.1 (Authoritative) | Response or referral received: ANSWER (217.69.32.44) | Round-trip time: 0.182660s
+[2025-10-28 10:00:58.153] RESOLUTION_COMPLETE: interfloracentral.co.uk. | IP: 217.69.32.44 | Total time to resolution: 2.1554s | SERVERS_VISITED: 12
+
+[2025-10-28 10:00:57.840] Domain name queried: pbprofile.com. | Resolution mode: Iterative
+[2025-10-28 10:00:58.026] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.186628s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:57.810] Domain name queried: owlcreek.com. | Resolution mode: Iterative
+[2025-10-28 10:00:57.985] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.170284s
+[2025-10-28 10:00:58.162] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns85.worldnic.com.) | Round-trip time: 0.176905s
+[2025-10-28 10:00:58.229] DNS server IP contacted: 162.159.26.131 (Authoritative) | Response or referral received: ANSWER (205.178.189.129) | Round-trip time: 0.066245s
+[2025-10-28 10:00:58.229] RESOLUTION_COMPLETE: owlcreek.com. | IP: 205.178.189.129 | Total time to resolution: 0.4194s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:57.877] Domain name queried: phi-pe.com. | Resolution mode: Iterative
+[2025-10-28 10:00:58.054] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.174579s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:58.104] Domain name queried: pieceinch.com. | Resolution mode: Iterative
+[2025-10-28 10:00:58.278] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.173744s
+[2025-10-28 10:00:58.446] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (lovisa.ns.cloudflare.com.) | Round-trip time: 0.167838s
+[2025-10-28 10:00:58.499] DNS server IP contacted: 108.162.194.39 (Authoritative) | Response or referral received: ANSWER (172.67.201.136) | Round-trip time: 0.052245s
+[2025-10-28 10:00:58.499] RESOLUTION_COMPLETE: pieceinch.com. | IP: 172.67.201.136 | Total time to resolution: 0.3952s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:57.892] Domain name queried: pictures-thailand.com. | Resolution mode: Iterative
+[2025-10-28 10:00:58.065] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.172040s
+[2025-10-28 10:00:58.246] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns.nshosts.com.) | Round-trip time: 0.171415s
+[2025-10-28 10:00:58.512] DNS server IP contacted: 66.96.142.111 (Authoritative) | Response or referral received: ANSWER (66.96.149.1) | Round-trip time: 0.248390s
+[2025-10-28 10:00:58.514] RESOLUTION_COMPLETE: pictures-thailand.com. | IP: 66.96.149.1 | Total time to resolution: 0.6215s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:58.302] Domain name queried: probigbets.com. | Resolution mode: Iterative
+[2025-10-28 10:00:58.466] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.162341s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:58.156] Domain name queried: portclydegeneralstore.com. | Resolution mode: Iterative
+[2025-10-28 10:00:58.318] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.160268s
+[2025-10-28 10:00:58.476] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns77.domaincontrol.com.) | Round-trip time: 0.157688s
+[2025-10-28 10:00:58.661] DNS server IP contacted: 97.74.108.49 (Authoritative) | Response or referral received: ANSWER (198.185.159.144) | Round-trip time: 0.183755s
+[2025-10-28 10:00:58.662] RESOLUTION_COMPLETE: portclydegeneralstore.com. | IP: 198.185.159.144 | Total time to resolution: 0.5060s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:56.161] Domain name queried: khsm.ru. | Resolution mode: Iterative
+[2025-10-28 10:00:56.340] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.ripn.net.) | Round-trip time: 0.178736s
+[2025-10-28 10:00:56.591] DNS server IP contacted: 193.232.128.6 (TLD) | Response or referral received: REFERRAL (ns3.frienddns.net.) | Round-trip time: 0.231572s
+[2025-10-28 10:00:56.596] Resolving NS record: ns3.frienddns.net.
+[2025-10-28 10:00:56.770] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.172450s
+[2025-10-28 10:00:56.959] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ns3.frienddns.net.) | Round-trip time: 0.181296s
+[2025-10-28 10:00:57.143] DNS server IP contacted: 185.14.31.38 (Authoritative) | Response or referral received: ANSWER (92.118.149.99) | Round-trip time: 0.183617s
+[2025-10-28 10:00:57.146] Resolving NS record: ns1.frienddns.info.
+[2025-10-28 10:00:57.308] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (b0.info.afilias-nst.org.) | Round-trip time: 0.161185s
+[2025-10-28 10:00:57.379] DNS server IP contacted: 199.254.48.1 (TLD) | Response or referral received: REFERRAL (ns4.frienddns.net.) | Round-trip time: 0.068859s
+[2025-10-28 10:00:57.575] DNS server IP contacted: 185.253.0.101 (Authoritative) | Response or referral received: ANSWER (146.19.188.222) | Round-trip time: 0.196172s
+[2025-10-28 10:00:57.575] Resolving NS record: ns2.frienddns.info.
+[2025-10-28 10:00:57.736] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (b0.info.afilias-nst.org.) | Round-trip time: 0.160581s
+[2025-10-28 10:00:57.806] DNS server IP contacted: 199.254.48.1 (TLD) | Response or referral received: REFERRAL (ns1.frienddns.info.) | Round-trip time: 0.065948s
+[2025-10-28 10:00:58.000] DNS server IP contacted: 54.36.103.242 (Authoritative) | Response or referral received: ANSWER (54.36.103.242) | Round-trip time: 0.185914s
+[2025-10-28 10:00:58.002] Resolving NS record: ns4.frienddns.net.
+[2025-10-28 10:00:58.172] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.170099s
+[2025-10-28 10:00:58.332] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ns3.frienddns.net.) | Round-trip time: 0.159489s
+[2025-10-28 10:00:58.509] DNS server IP contacted: 185.14.31.38 (Authoritative) | Response or referral received: ANSWER (185.253.44.20) | Round-trip time: 0.177218s
+[2025-10-28 10:00:58.691] DNS server IP contacted: 92.118.149.99 (Authoritative) | Response or referral received: ANSWER (91.247.37.5) | Round-trip time: 0.181448s
+[2025-10-28 10:00:58.691] RESOLUTION_COMPLETE: khsm.ru. | IP: 91.247.37.5 | Total time to resolution: 2.5299s | SERVERS_VISITED: 15
+
+[2025-10-28 10:00:54.447] Domain name queried: advertos.ru. | Resolution mode: Iterative
+[2025-10-28 10:00:54.630] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.ripn.net.) | Round-trip time: 0.181577s
+[2025-10-28 10:00:54.937] DNS server IP contacted: 193.232.128.6 (TLD) | Response or referral received: REFERRAL (dns.fastdns24.com.) | Round-trip time: 0.241766s
+[2025-10-28 10:00:54.939] Resolving NS record: dns.fastdns24.com.
+[2025-10-28 10:00:55.105] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.165692s
+[2025-10-28 10:00:55.277] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns17.domaincontrol.com.) | Round-trip time: 0.164245s
+[2025-10-28 10:00:55.468] DNS server IP contacted: 97.74.108.9 (Authoritative) | Response or referral received: ANSWER (176.31.3.154) | Round-trip time: 0.190547s
+[2025-10-28 10:00:55.468] Resolving NS record: dns4.fastdns24.link.
+[2025-10-28 10:00:55.632] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (ns01.trs-dns.org.) | Round-trip time: 0.163255s
+[2025-10-28 10:00:55.720] DNS server IP contacted: 185.159.197.3 (TLD) | Response or referral received: REFERRAL (pdns1.registrar-servers.com.) | Round-trip time: 0.087783s
+[2025-10-28 10:00:55.720] Resolving NS record: pdns1.registrar-servers.com.
+[2025-10-28 10:00:55.880] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.160333s
+[2025-10-28 10:00:56.043] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (edns4.ultradns.net.) | Round-trip time: 0.161547s
+[2025-10-28 10:00:56.126] DNS server IP contacted: 204.74.66.4 (Authoritative) | Response or referral received: ANSWER (156.154.132.100) | Round-trip time: 0.074870s
+[2025-10-28 10:00:56.130] Resolving NS record: pdns2.registrar-servers.com.
+[2025-10-28 10:00:56.297] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.166303s
+[2025-10-28 10:00:56.449] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (edns4.ultradns.net.) | Round-trip time: 0.150390s
+[2025-10-28 10:00:56.537] DNS server IP contacted: 204.74.66.4 (Authoritative) | Response or referral received: ANSWER (156.154.133.100) | Round-trip time: 0.086194s
+[2025-10-28 10:00:56.608] DNS server IP contacted: 156.154.132.100 (Authoritative) | Response or referral received: ANSWER (95.216.25.5) | Round-trip time: 0.069937s
+[2025-10-28 10:00:56.608] Resolving NS record: dns3.fastdns24.eu.
+[2025-10-28 10:00:56.774] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (be.dns.eu.) | Round-trip time: 0.166097s
+[2025-10-28 10:00:57.097] DNS server IP contacted: 149.38.1.26 (TLD) | Response or referral received: REFERRAL (ns.zone.eu.) | Round-trip time: 0.306672s
+[2025-10-28 10:00:57.345] DNS server IP contacted: 217.146.66.65 (Authoritative) | Response or referral received: ANSWER (136.243.223.232) | Round-trip time: 0.235859s
+[2025-10-28 10:00:57.350] Resolving NS record: dns2.fastdns24.org.
+[2025-10-28 10:00:57.521] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a2.org.afilias-nst.info.) | Round-trip time: 0.169522s
+[2025-10-28 10:00:57.624] DNS server IP contacted: 199.249.112.1 (TLD) | Response or referral received: REFERRAL (dns1.registrar-servers.com.) | Round-trip time: 0.101595s
+[2025-10-28 10:00:57.624] Resolving NS record: dns1.registrar-servers.com.
+[2025-10-28 10:00:57.789] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.165199s
+[2025-10-28 10:00:57.953] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (edns4.ultradns.net.) | Round-trip time: 0.152504s
+[2025-10-28 10:00:58.020] DNS server IP contacted: 204.74.66.4 (Authoritative) | Response or referral received: ANSWER (156.154.132.200) | Round-trip time: 0.065029s
+[2025-10-28 10:00:58.021] Resolving NS record: dns2.registrar-servers.com.
+[2025-10-28 10:00:58.200] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.179814s
+[2025-10-28 10:00:58.366] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (edns4.ultradns.net.) | Round-trip time: 0.160824s
+[2025-10-28 10:00:58.445] DNS server IP contacted: 204.74.66.4 (Authoritative) | Response or referral received: ANSWER (156.154.133.200) | Round-trip time: 0.072769s
+[2025-10-28 10:00:58.512] DNS server IP contacted: 156.154.132.200 (Authoritative) | Response or referral received: ANSWER (5.188.30.150) | Round-trip time: 0.065747s
+[2025-10-28 10:00:58.714] DNS server IP contacted: 176.31.3.154 (Authoritative) | Response or referral received: ANSWER (45.92.176.75) | Round-trip time: 0.192713s
+[2025-10-28 10:00:58.714] RESOLUTION_COMPLETE: advertos.ru. | IP: 45.92.176.75 | Total time to resolution: 4.2673s | SERVERS_VISITED: 27
+
+[2025-10-28 10:00:58.569] Domain name queried: progettogiovani.pd.it. | Resolution mode: Iterative
+[2025-10-28 10:00:58.753] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.180976s
+[2025-10-28 10:00:58.948] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (dns3.fastweb.it.) | Round-trip time: 0.194662s
+[2025-10-28 10:00:59.115] DNS server IP contacted: 213.140.22.93 (Authoritative) | Response or referral received: ANSWER (185.213.115.40) | Round-trip time: 0.166068s
+[2025-10-28 10:00:59.116] RESOLUTION_COMPLETE: progettogiovani.pd.it. | IP: 185.213.115.40 | Total time to resolution: 0.5472s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:58.804] Domain name queried: retiragroup.com. | Resolution mode: Iterative
+[2025-10-28 10:00:58.990] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.185164s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:58.576] Domain name queried: radioterminal.ru. | Resolution mode: Iterative
+[2025-10-28 10:00:58.745] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.ripn.net.) | Round-trip time: 0.168974s
+[2025-10-28 10:00:58.972] DNS server IP contacted: 193.232.128.6 (TLD) | Response or referral received: REFERRAL (ns1.timeweb.ru.) | Round-trip time: 0.226122s
+[2025-10-28 10:00:59.179] DNS server IP contacted: 85.193.93.85 (Authoritative) | Response or referral received: ANSWER (188.225.40.161) | Round-trip time: 0.206547s
+[2025-10-28 10:00:59.179] RESOLUTION_COMPLETE: radioterminal.ru. | IP: 188.225.40.161 | Total time to resolution: 0.6025s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:58.807] Domain name queried: rtsab.com. | Resolution mode: Iterative
+[2025-10-28 10:00:58.964] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.157281s
+[2025-10-28 10:00:59.127] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (dns01.dipcon.com.) | Round-trip time: 0.157718s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:59.174] Domain name queried: running-sigi.de. | Resolution mode: Iterative
+[2025-10-28 10:00:59.332] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.nic.de.) | Round-trip time: 0.157984s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:55.430] Domain name queried: house-sg.com. | Resolution mode: Iterative
+[2025-10-28 10:00:55.601] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.170398s
+[2025-10-28 10:00:55.770] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.4.cn.) | Round-trip time: 0.165900s
+[2025-10-28 10:00:55.773] Resolving NS record: ns1.4.cn.
+[2025-10-28 10:00:55.930] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (e.dns.cn.) | Round-trip time: 0.156819s
+[2025-10-28 10:00:56.157] DNS server IP contacted: 203.119.29.1 (TLD) | Response or referral received: REFERRAL (vip3.alidns.com.) | Round-trip time: 0.205280s
+[2025-10-28 10:00:56.157] Resolving NS record: vip3.alidns.com.
+[2025-10-28 10:00:56.317] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.159781s
+[2025-10-28 10:00:56.504] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.aliyun.com.) | Round-trip time: 0.163852s
+[2025-10-28 10:00:56.850] DNS server IP contacted: 106.11.35.29 (Authoritative) | Response or referral received: ANSWER (170.33.80.10) | Round-trip time: 0.339808s
+[2025-10-28 10:00:56.852] Resolving NS record: vip4.alidns.com.
+[2025-10-28 10:00:57.008] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.155631s
+[2025-10-28 10:00:57.176] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.aliyun.com.) | Round-trip time: 0.166342s
+[2025-10-28 10:00:57.532] DNS server IP contacted: 106.11.35.29 (Authoritative) | Response or referral received: ANSWER (170.33.80.11) | Round-trip time: 0.351377s
+[2025-10-28 10:00:57.711] DNS server IP contacted: 170.33.80.10 (Authoritative) | Response or referral received: ANSWER (107.167.27.66) | Round-trip time: 0.174630s
+[2025-10-28 10:00:57.711] Resolving NS record: ns2.4.cn.
+[2025-10-28 10:00:57.867] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (e.dns.cn.) | Round-trip time: 0.155898s
+[2025-10-28 10:00:58.081] DNS server IP contacted: 203.119.29.1 (TLD) | Response or referral received: REFERRAL (vip3.alidns.com.) | Round-trip time: 0.205489s
+[2025-10-28 10:00:58.088] Resolving NS record: vip3.alidns.com.
+[2025-10-28 10:00:58.257] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.167498s
+[2025-10-28 10:00:58.432] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.aliyun.com.) | Round-trip time: 0.167697s
+[2025-10-28 10:00:58.766] DNS server IP contacted: 106.11.35.29 (Authoritative) | Response or referral received: ANSWER (170.33.80.10) | Round-trip time: 0.332323s
+[2025-10-28 10:00:58.768] Resolving NS record: vip4.alidns.com.
+[2025-10-28 10:00:58.927] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.159213s
+[2025-10-28 10:00:59.091] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.aliyun.com.) | Round-trip time: 0.163656s
+[2025-10-28 10:00:59.425] DNS server IP contacted: 106.11.35.29 (Authoritative) | Response or referral received: ANSWER (170.33.80.11) | Round-trip time: 0.332693s
+[2025-10-28 10:00:59.596] DNS server IP contacted: 170.33.80.10 (Authoritative) | Response or referral received: ANSWER (64.32.10.2) | Round-trip time: 0.169064s
+[2025-10-28 10:00:59.869] DNS server IP contacted: 107.167.27.66 (Authoritative) | Response or referral received: ANSWER (208.98.40.218) | Round-trip time: 0.272585s
+[2025-10-28 10:00:59.870] RESOLUTION_COMPLETE: house-sg.com. | IP: 208.98.40.218 | Total time to resolution: 4.4401s | SERVERS_VISITED: 21
+
+[2025-10-28 10:00:58.755] Domain name queried: reprosystems.ru. | Resolution mode: Iterative
+[2025-10-28 10:00:58.920] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.ripn.net.) | Round-trip time: 0.162003s
+[2025-10-28 10:00:59.150] DNS server IP contacted: 193.232.128.6 (TLD) | Response or referral received: REFERRAL (brodie.ns.cloudflare.com.) | Round-trip time: 0.230196s
+[2025-10-28 10:00:59.150] Resolving NS record: brodie.ns.cloudflare.com.
+[2025-10-28 10:00:59.320] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.169426s
+[2025-10-28 10:00:59.488] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.cloudflare.com.) | Round-trip time: 0.161138s
+[2025-10-28 10:00:59.548] DNS server IP contacted: 162.159.0.33 (Authoritative) | Response or referral received: ANSWER (172.64.35.237) | Round-trip time: 0.057489s
+[2025-10-28 10:00:59.548] Resolving NS record: jen.ns.cloudflare.com.
+[2025-10-28 10:00:59.703] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.154768s
+[2025-10-28 10:00:59.862] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns3.cloudflare.com.) | Round-trip time: 0.158750s
+[2025-10-28 10:00:59.925] DNS server IP contacted: 162.159.0.33 (Authoritative) | Response or referral received: ANSWER (108.162.194.185) | Round-trip time: 0.057978s
+[2025-10-28 10:00:59.983] DNS server IP contacted: 172.64.35.237 (Authoritative) | Response or referral received: ANSWER (172.67.167.102) | Round-trip time: 0.057401s
+[2025-10-28 10:00:59.984] RESOLUTION_COMPLETE: reprosystems.ru. | IP: 172.67.167.102 | Total time to resolution: 1.2294s | SERVERS_VISITED: 9
+
+[2025-10-28 10:00:56.859] Domain name queried: mesites.co.za. | Resolution mode: Iterative
+[2025-10-28 10:00:57.029] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (nsza.is.co.za.) | Round-trip time: 0.169304s
+[2025-10-28 10:00:57.386] DNS server IP contacted: 196.4.160.27 (TLD) | Response or referral received: REFERRAL (coza1.dnsnode.net.) | Round-trip time: 0.353516s
+[2025-10-28 10:00:57.753] DNS server IP contacted: 206.223.136.200 (Authoritative) | Response or referral received: REFERRAL (ns1.dns-h.com.) | Round-trip time: 0.366365s
+[2025-10-28 10:00:57.753] Resolving NS record: ns1.dns-h.com.
+[2025-10-28 10:00:57.921] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.167597s
+[2025-10-28 10:00:58.095] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns1.host-h.net.) | Round-trip time: 0.171614s
+[2025-10-28 10:00:58.439] DNS server IP contacted: 129.232.248.31 (Authoritative) | Response or referral received: ANSWER (129.232.248.31) | Round-trip time: 0.343919s
+[2025-10-28 10:00:58.439] Resolving NS record: ns1.host-h.net.
+[2025-10-28 10:00:58.600] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.161575s
+[2025-10-28 10:00:58.761] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ns1.host-h.net.) | Round-trip time: 0.160504s
+[2025-10-28 10:00:59.113] DNS server IP contacted: 129.232.248.30 (Authoritative) | Response or referral received: ANSWER (129.232.248.30) | Round-trip time: 0.351597s
+[2025-10-28 10:00:59.113] Resolving NS record: ns2.host-h.net.
+[2025-10-28 10:00:59.305] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.192423s
+[2025-10-28 10:00:59.483] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ns1.host-h.net.) | Round-trip time: 0.163142s
+[2025-10-28 10:00:59.833] DNS server IP contacted: 129.232.248.30 (Authoritative) | Response or referral received: ANSWER (129.232.248.40) | Round-trip time: 0.344070s
+[2025-10-28 10:01:00.173] DNS server IP contacted: 129.232.248.31 (Authoritative) | Response or referral received: ANSWER (41.204.200.130) | Round-trip time: 0.339690s
+[2025-10-28 10:01:00.173] RESOLUTION_COMPLETE: mesites.co.za. | IP: 41.204.200.130 | Total time to resolution: 3.3135s | SERVERS_VISITED: 13
+
+[2025-10-28 10:01:00.030] Domain name queried: shivalikprints.com. | Resolution mode: Iterative
+[2025-10-28 10:01:00.195] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.163296s
+[2025-10-28 10:01:00.372] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (p4d.mercury.orderbox-dns.com.) | Round-trip time: 0.164882s
+[2025-10-28 10:01:00.430] DNS server IP contacted: 162.251.82.122 (Authoritative) | Response or referral received: ANSWER (162.215.11.92) | Round-trip time: 0.057934s
+[2025-10-28 10:01:00.430] RESOLUTION_COMPLETE: shivalikprints.com. | IP: 162.215.11.92 | Total time to resolution: 0.4001s | SERVERS_VISITED: 3
+
+[2025-10-28 10:00:58.207] Domain name queried: ppsuika.ac.id. | Resolution mode: Iterative
+[2025-10-28 10:00:58.372] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (ns4.apnic.net.) | Round-trip time: 0.162440s
+[2025-10-28 10:00:58.595] DNS server IP contacted: 202.12.31.53 (TLD) | Response or referral received: REFERRAL (e.dns.id.) | Round-trip time: 0.218711s
+[2025-10-28 10:00:58.728] DNS server IP contacted: 103.19.177.177 (Authoritative) | Response or referral received: REFERRAL (ns1.rumahweb.com.) | Round-trip time: 0.131820s
+[2025-10-28 10:00:58.740] Resolving NS record: ns1.rumahweb.com.
+[2025-10-28 10:00:58.901] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.160013s
+[2025-10-28 10:00:59.058] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (asa.ns.cloudflare.com.) | Round-trip time: 0.154894s
+[2025-10-28 10:00:59.117] DNS server IP contacted: 108.162.192.246 (Authoritative) | Response or referral received: ANSWER (172.232.249.206) | Round-trip time: 0.057595s
+[2025-10-28 10:00:59.117] Resolving NS record: ns2.rumahweb.com.
+[2025-10-28 10:00:59.294] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.177287s
+[2025-10-28 10:00:59.462] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (asa.ns.cloudflare.com.) | Round-trip time: 0.155802s
+[2025-10-28 10:00:59.521] DNS server IP contacted: 108.162.192.246 (Authoritative) | Response or referral received: ANSWER (68.183.178.111) | Round-trip time: 0.055585s
+[2025-10-28 10:00:59.523] Resolving NS record: ns3.rumahweb.net.
+[2025-10-28 10:00:59.678] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.154611s
+[2025-10-28 10:00:59.850] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (nsrw4.mysrsx.com.) | Round-trip time: 0.171656s
+[2025-10-28 10:00:59.904] DNS server IP contacted: 185.136.98.88 (Authoritative) | Response or referral received: ANSWER (178.128.207.174) | Round-trip time: 0.054412s
+[2025-10-28 10:00:59.905] Resolving NS record: ns4.rumahweb.net.
+[2025-10-28 10:01:00.059] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.154226s
+[2025-10-28 10:01:00.275] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (nsrw4.mysrsx.com.) | Round-trip time: 0.216144s
+[2025-10-28 10:01:00.323] DNS server IP contacted: 185.136.98.88 (Authoritative) | Response or referral received: ANSWER (45.32.114.6) | Round-trip time: 0.047402s
+[2025-10-28 10:01:00.432] DNS server IP contacted: 172.232.249.206 (Authoritative) | Response or referral received: ANSWER (203.175.8.54) | Round-trip time: 0.109015s
+[2025-10-28 10:01:00.433] RESOLUTION_COMPLETE: ppsuika.ac.id. | IP: 203.175.8.54 | Total time to resolution: 2.2253s | SERVERS_VISITED: 16
+
+[2025-10-28 10:00:59.915] Domain name queried: sheltercoveinn.com. | Resolution mode: Iterative
+[2025-10-28 10:01:00.090] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.173822s
+[2025-10-28 10:01:00.272] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (dns1.name-services.com.) | Round-trip time: 0.180308s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:01:00.280] Domain name queried: shqqaa.com. | Resolution mode: Iterative
+[2025-10-28 10:01:00.446] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.165592s
+[2025-10-28 10:01:00.612] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (jake.ns.cloudflare.com.) | Round-trip time: 0.165930s
+[2025-10-28 10:01:00.665] DNS server IP contacted: 108.162.193.122 (Authoritative) | Response or referral received: ANSWER (172.67.134.61) | Round-trip time: 0.051362s
+[2025-10-28 10:01:00.674] RESOLUTION_COMPLETE: shqqaa.com. | IP: 172.67.134.61 | Total time to resolution: 0.3945s | SERVERS_VISITED: 3
+
+[2025-10-28 10:01:00.501] Domain name queried: somode.com. | Resolution mode: Iterative
+[2025-10-28 10:01:00.670] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.169417s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:01:00.487] Domain name queried: simternet.com. | Resolution mode: Iterative
+[2025-10-28 10:01:00.643] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.155832s
+[2025-10-28 10:01:00.800] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (ns41.domaincontrol.com.) | Round-trip time: 0.156622s
+[2025-10-28 10:01:00.989] DNS server IP contacted: 97.74.100.21 (Authoritative) | Response or referral received: ANSWER (15.197.225.128) | Round-trip time: 0.187851s
+[2025-10-28 10:01:00.990] RESOLUTION_COMPLETE: simternet.com. | IP: 15.197.225.128 | Total time to resolution: 0.5029s | SERVERS_VISITED: 3
+
+[2025-10-28 10:01:00.727] Domain name queried: stunninggirls.net. | Resolution mode: Iterative
+[2025-10-28 10:01:00.886] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.159079s
+[2025-10-28 10:01:01.069] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ns-92.awsdns-11.com.) | Round-trip time: 0.179118s
+[2025-10-28 10:01:01.104] DNS server IP contacted: 205.251.194.19 (Authoritative) | Response or referral received: ANSWER (34.95.33.229) | Round-trip time: 0.034688s
+[2025-10-28 10:01:01.105] RESOLUTION_COMPLETE: stunninggirls.net. | IP: 34.95.33.229 | Total time to resolution: 0.3782s | SERVERS_VISITED: 3
+
+[2025-10-28 10:01:01.030] Domain name queried: toaskfuture.com. | Resolution mode: Iterative
+[2025-10-28 10:01:01.186] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.155566s
+[2025-10-28 10:01:01.348] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (dns1.registrar-servers.com.) | Round-trip time: 0.159626s
+[2025-10-28 10:01:01.416] DNS server IP contacted: 156.154.132.200 (Authoritative) | Response or referral received: ANSWER (119.18.54.195) | Round-trip time: 0.068287s
+[2025-10-28 10:01:01.418] RESOLUTION_COMPLETE: toaskfuture.com. | IP: 119.18.54.195 | Total time to resolution: 0.3869s | SERVERS_VISITED: 3
+
+[2025-10-28 10:01:01.146] Domain name queried: tottenhamhk.com. | Resolution mode: Iterative
+[2025-10-28 10:01:01.313] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.167016s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:01:01.455] Domain name queried: triggerfish.se. | Resolution mode: Iterative
+[2025-10-28 10:01:01.642] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (f.ns.se.) | Round-trip time: 0.186731s
+[2025-10-28 10:01:01.815] DNS server IP contacted: 192.71.53.53 (TLD) | Response or referral received: REFERRAL (ns1.triggerfish.se.) | Round-trip time: 0.172007s
+[2025-10-28 10:01:02.023] DNS server IP contacted: 84.246.134.190 (Authoritative) | Response or referral received: ANSWER (162.159.134.42) | Round-trip time: 0.207280s
+[2025-10-28 10:01:02.023] RESOLUTION_COMPLETE: triggerfish.se. | IP: 162.159.134.42 | Total time to resolution: 0.5681s | SERVERS_VISITED: 3
+
+[2025-10-28 10:01:02.056] Domain name queried: tuhafhaberler.com. | Resolution mode: Iterative
+[2025-10-28 10:01:02.210] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.154453s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:54.179] Domain name queried: autofirenze.biz. | Resolution mode: Iterative
+[2025-10-28 10:00:54.427] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (b.gtld.biz.) | Round-trip time: 0.247980s
+[2025-10-28 10:00:54.499] DNS server IP contacted: 156.154.125.65 (TLD) | Response or referral received: REFERRAL (dns3.arubadns.net.) | Round-trip time: 0.065855s
+[2025-10-28 10:00:54.499] Resolving NS record: dns3.arubadns.net.
+[2025-10-28 10:00:54.662] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.163164s
+[2025-10-28 10:00:54.899] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (arudns1.aruba.it.) | Round-trip time: 0.197161s
+[2025-10-28 10:00:54.909] Resolving NS record: arudns1.aruba.it.
+[2025-10-28 10:00:55.065] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.155587s
+[2025-10-28 10:00:55.324] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns4.aruba.it.) | Round-trip time: 0.250460s
+[2025-10-28 10:00:55.553] DNS server IP contacted: 94.177.210.15 (Authoritative) | Response or referral received: ANSWER (94.177.210.15) | Round-trip time: 0.201683s
+[2025-10-28 10:00:55.553] Resolving NS record: arudns2.aruba.it.
+[2025-10-28 10:00:55.707] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.153824s
+[2025-10-28 10:00:55.918] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns1.aruba.it.) | Round-trip time: 0.210450s
+[2025-10-28 10:00:56.101] DNS server IP contacted: 95.110.136.13 (Authoritative) | Response or referral received: ANSWER (95.110.136.13) | Round-trip time: 0.170903s
+[2025-10-28 10:00:56.101] Resolving NS record: arudns3.aruba.it.
+[2025-10-28 10:00:56.253] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.152134s
+[2025-10-28 10:00:56.439] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns4.aruba.it.) | Round-trip time: 0.185451s
+[2025-10-28 10:00:56.630] DNS server IP contacted: 95.110.220.15 (Authoritative) | Response or referral received: ANSWER (95.110.220.15) | Round-trip time: 0.190566s
+[2025-10-28 10:00:56.630] Resolving NS record: arudns4.aruba.it.
+[2025-10-28 10:00:56.784] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.154208s
+[2025-10-28 10:00:56.982] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns1.aruba.it.) | Round-trip time: 0.186395s
+[2025-10-28 10:00:57.183] DNS server IP contacted: 81.2.199.101 (Authoritative) | Response or referral received: ANSWER (81.2.199.101) | Round-trip time: 0.199180s
+[2025-10-28 10:00:57.376] DNS server IP contacted: 94.177.210.15 (Authoritative) | Response or referral received: ANSWER (95.110.220.5) | Round-trip time: 0.191354s
+[2025-10-28 10:00:57.376] Resolving NS record: dns2.technorail.com.
+[2025-10-28 10:00:57.529] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.153124s
+[2025-10-28 10:00:57.703] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (arudns1.aruba.it.) | Round-trip time: 0.168637s
+[2025-10-28 10:00:57.703] Resolving NS record: arudns1.aruba.it.
+[2025-10-28 10:00:57.860] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.156748s
+[2025-10-28 10:00:58.071] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns3.aruba.it.) | Round-trip time: 0.197635s
+[2025-10-28 10:00:58.263] DNS server IP contacted: 94.177.210.15 (Authoritative) | Response or referral received: ANSWER (94.177.210.15) | Round-trip time: 0.181556s
+[2025-10-28 10:00:58.264] Resolving NS record: arudns2.aruba.it.
+[2025-10-28 10:00:58.418] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.153988s
+[2025-10-28 10:00:58.604] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns4.aruba.it.) | Round-trip time: 0.184619s
+[2025-10-28 10:00:58.775] DNS server IP contacted: 95.110.136.13 (Authoritative) | Response or referral received: ANSWER (95.110.136.13) | Round-trip time: 0.170928s
+[2025-10-28 10:00:58.775] Resolving NS record: arudns3.aruba.it.
+[2025-10-28 10:00:58.933] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.157754s
+[2025-10-28 10:00:59.119] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns2.aruba.it.) | Round-trip time: 0.185544s
+[2025-10-28 10:00:59.312] DNS server IP contacted: 95.110.220.15 (Authoritative) | Response or referral received: ANSWER (95.110.220.15) | Round-trip time: 0.193057s
+[2025-10-28 10:00:59.323] Resolving NS record: arudns4.aruba.it.
+[2025-10-28 10:00:59.477] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.151821s
+[2025-10-28 10:00:59.669] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns1.aruba.it.) | Round-trip time: 0.184984s
+[2025-10-28 10:00:59.859] DNS server IP contacted: 81.2.199.101 (Authoritative) | Response or referral received: ANSWER (81.2.199.101) | Round-trip time: 0.189156s
+[2025-10-28 10:01:00.037] DNS server IP contacted: 94.177.210.15 (Authoritative) | Response or referral received: ANSWER (95.110.136.8) | Round-trip time: 0.177873s
+[2025-10-28 10:01:00.037] Resolving NS record: dns.technorail.com.
+[2025-10-28 10:01:00.189] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.152541s
+[2025-10-28 10:01:00.360] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (arudns1.aruba.it.) | Round-trip time: 0.154856s
+[2025-10-28 10:01:00.360] Resolving NS record: arudns1.aruba.it.
+[2025-10-28 10:01:00.520] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.159630s
+[2025-10-28 10:01:00.709] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns2.aruba.it.) | Round-trip time: 0.186162s
+[2025-10-28 10:01:00.889] DNS server IP contacted: 94.177.210.15 (Authoritative) | Response or referral received: ANSWER (94.177.210.15) | Round-trip time: 0.179923s
+[2025-10-28 10:01:00.896] Resolving NS record: arudns2.aruba.it.
+[2025-10-28 10:01:01.048] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.151472s
+[2025-10-28 10:01:01.240] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns3.aruba.it.) | Round-trip time: 0.188622s
+[2025-10-28 10:01:01.405] DNS server IP contacted: 95.110.136.13 (Authoritative) | Response or referral received: ANSWER (95.110.136.13) | Round-trip time: 0.165020s
+[2025-10-28 10:01:01.405] Resolving NS record: arudns3.aruba.it.
+[2025-10-28 10:01:01.557] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.151592s
+[2025-10-28 10:01:01.743] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns3.aruba.it.) | Round-trip time: 0.185177s
+[2025-10-28 10:01:01.918] DNS server IP contacted: 95.110.220.15 (Authoritative) | Response or referral received: ANSWER (95.110.220.15) | Round-trip time: 0.173753s
+[2025-10-28 10:01:01.919] Resolving NS record: arudns4.aruba.it.
+[2025-10-28 10:01:02.070] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.151762s
+[2025-10-28 10:01:02.257] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns3.aruba.it.) | Round-trip time: 0.184372s
+[2025-10-28 10:01:02.512] DNS server IP contacted: 81.2.199.101 (Authoritative) | Response or referral received: ANSWER (81.2.199.101) | Round-trip time: 0.253042s
+[2025-10-28 10:01:02.687] DNS server IP contacted: 94.177.210.15 (Authoritative) | Response or referral received: ANSWER (94.177.210.13) | Round-trip time: 0.174715s
+[2025-10-28 10:01:02.688] Resolving NS record: dns4.arubadns.cz.
+[2025-10-28 10:01:02.837] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.ns.nic.cz.) | Round-trip time: 0.148970s
+[2025-10-28 10:01:03.129] DNS server IP contacted: 194.0.12.1 (TLD) | Response or referral received: REFERRAL (arudns1.aruba.it.) | Round-trip time: 0.289381s
+[2025-10-28 10:01:03.129] Resolving NS record: arudns1.aruba.it.
+[2025-10-28 10:01:03.280] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.151294s
+[2025-10-28 10:01:03.467] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns3.aruba.it.) | Round-trip time: 0.185693s
+[2025-10-28 10:01:03.642] DNS server IP contacted: 94.177.210.15 (Authoritative) | Response or referral received: ANSWER (94.177.210.15) | Round-trip time: 0.174042s
+[2025-10-28 10:01:03.644] Resolving NS record: arudns2.aruba.it.
+[2025-10-28 10:01:03.795] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.151087s
+[2025-10-28 10:01:03.984] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns3.aruba.it.) | Round-trip time: 0.186408s
+[2025-10-28 10:01:04.151] DNS server IP contacted: 95.110.136.13 (Authoritative) | Response or referral received: ANSWER (95.110.136.13) | Round-trip time: 0.166456s
+[2025-10-28 10:01:04.153] Resolving NS record: arudns3.aruba.it.
+[2025-10-28 10:01:04.305] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.151474s
+[2025-10-28 10:01:04.493] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns1.aruba.it.) | Round-trip time: 0.184929s
+[2025-10-28 10:01:04.670] DNS server IP contacted: 95.110.220.15 (Authoritative) | Response or referral received: ANSWER (95.110.220.15) | Round-trip time: 0.175653s
+[2025-10-28 10:01:04.671] Resolving NS record: arudns4.aruba.it.
+[2025-10-28 10:01:04.824] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.dns.it.) | Round-trip time: 0.151562s
+[2025-10-28 10:01:05.010] DNS server IP contacted: 194.0.16.215 (TLD) | Response or referral received: REFERRAL (arudns4.aruba.it.) | Round-trip time: 0.184701s
+[2025-10-28 10:01:05.194] DNS server IP contacted: 81.2.199.101 (Authoritative) | Response or referral received: ANSWER (81.2.199.101) | Round-trip time: 0.182078s
+[2025-10-28 10:01:05.371] DNS server IP contacted: 94.177.210.15 (Authoritative) | Response or referral received: ANSWER (81.2.216.238) | Round-trip time: 0.174670s
+[2025-10-28 10:01:05.537] DNS server IP contacted: 95.110.220.5 (Authoritative) | Response or referral received: ANSWER (89.46.109.17) | Round-trip time: 0.165410s
+[2025-10-28 10:01:05.537] RESOLUTION_COMPLETE: autofirenze.biz. | IP: 89.46.109.17 | Total time to resolution: 11.3579s | SERVERS_VISITED: 63
+
+[2025-10-28 10:01:05.596] Domain name queried: uahoy.net. | Resolution mode: Iterative
+[2025-10-28 10:01:05.761] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.164788s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:55.186] Domain name queried: ex-jw.org. | Resolution mode: Iterative
+[2025-10-28 10:00:55.383] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a2.org.afilias-nst.info.) | Round-trip time: 0.197520s
+[2025-10-28 10:00:55.505] DNS server IP contacted: 199.249.112.1 (TLD) | Response or referral received: REFERRAL (ns10.wixdns.net.) | Round-trip time: 0.119562s
+[2025-10-28 10:00:55.505] Resolving NS record: ns10.wixdns.net.
+[2025-10-28 10:00:55.661] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.155577s
+[2025-10-28 10:00:55.826] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (dns1.p02.nsone.net.) | Round-trip time: 0.164850s
+[2025-10-28 10:01:00.903] DNS server IP contacted: 198.51.45.2 (Authoritative) | Response or referral received: ANSWER (216.239.36.100) | Round-trip time: 5.076324s
+[2025-10-28 10:01:00.903] Resolving NS record: ns11.wixdns.net.
+[2025-10-28 10:01:01.058] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.154563s
+[2025-10-28 10:01:01.216] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (dns1.p02.nsone.net.) | Round-trip time: 0.154663s
+[2025-10-28 10:01:06.282] DNS server IP contacted: 198.51.45.2 (Authoritative) | Response or referral received: ANSWER (216.239.38.100) | Round-trip time: 5.064923s
+[2025-10-28 10:01:06.319] DNS server IP contacted: 216.239.36.100 (Authoritative) | Response or referral received: ANSWER (185.230.63.186) | Round-trip time: 0.037500s
+[2025-10-28 10:01:06.319] RESOLUTION_COMPLETE: ex-jw.org. | IP: 185.230.63.186 | Total time to resolution: 11.1338s | SERVERS_VISITED: 11
+
+[2025-10-28 10:00:59.217] Domain name queried: sdccdonline.net. | Resolution mode: Iterative
+[2025-10-28 10:00:59.379] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.160730s
+[2025-10-28 10:00:59.543] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ns2.csu.net.) | Round-trip time: 0.159446s
+[2025-10-28 10:01:09.550] DNS server IP contacted: 130.150.102.20 (Authoritative) | Response: FAILED | Round-trip time: 10.006675s
+[2025-10-28 10:01:09.551] RESOLUTION_FAILED: sdccdonline.net. | Total time to resolution: 10.3337s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:01:06.353] Domain name queried: us.tf. | Resolution mode: Iterative
+[2025-10-28 10:01:06.511] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (f.ext.nic.fr.) | Round-trip time: 0.158494s
+[2025-10-28 10:01:06.682] DNS server IP contacted: 194.146.106.46 (TLD) | Response or referral received: REFERRAL (ns1.idnscan.net.) | Round-trip time: 0.169407s
+[2025-10-28 10:01:06.682] Resolving NS record: ns1.idnscan.net.
+[2025-10-28 10:01:06.841] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.159449s
+[2025-10-28 10:01:06.996] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ns1.domainers.de.) | Round-trip time: 0.152358s
+[2025-10-28 10:01:06.996] Resolving NS record: ns1.domainers.de.
+[2025-10-28 10:01:07.155] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.nic.de.) | Round-trip time: 0.159076s
+[2025-10-28 10:01:07.345] DNS server IP contacted: 194.0.0.53 (TLD) | Response or referral received: REFERRAL (ns4.domainers.de.) | Round-trip time: 0.188866s
+[2025-10-28 10:01:07.537] DNS server IP contacted: 95.130.16.246 (Authoritative) | Response or referral received: ANSWER (95.130.16.246) | Round-trip time: 0.190013s
+[2025-10-28 10:01:07.537] Resolving NS record: ns2.domainers.de.
+[2025-10-28 10:01:07.696] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.nic.de.) | Round-trip time: 0.158781s
+[2025-10-28 10:01:07.886] DNS server IP contacted: 194.0.0.53 (TLD) | Response or referral received: REFERRAL (ns2.domainers.de.) | Round-trip time: 0.188815s
+[2025-10-28 10:01:08.088] DNS server IP contacted: 95.130.17.218 (Authoritative) | Response or referral received: ANSWER (95.130.17.218) | Round-trip time: 0.199946s
+[2025-10-28 10:01:08.088] Resolving NS record: ns3.domainers.de.
+[2025-10-28 10:01:08.245] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.nic.de.) | Round-trip time: 0.156969s
+[2025-10-28 10:01:08.435] DNS server IP contacted: 194.0.0.53 (TLD) | Response or referral received: REFERRAL (ns1.domainers.de.) | Round-trip time: 0.187484s
+[2025-10-28 10:01:08.614] DNS server IP contacted: 217.146.22.194 (Authoritative) | Response or referral received: ANSWER (217.146.22.194) | Round-trip time: 0.177492s
+[2025-10-28 10:01:08.614] Resolving NS record: ns4.domainers.de.
+[2025-10-28 10:01:08.771] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.nic.de.) | Round-trip time: 0.156279s
+[2025-10-28 10:01:08.961] DNS server IP contacted: 194.0.0.53 (TLD) | Response or referral received: REFERRAL (ns1.domainers.de.) | Round-trip time: 0.187155s
+[2025-10-28 10:01:09.143] DNS server IP contacted: 144.76.91.137 (Authoritative) | Response or referral received: ANSWER (144.76.91.137) | Round-trip time: 0.181328s
+[2025-10-28 10:01:09.332] DNS server IP contacted: 95.130.16.246 (Authoritative) | Response or referral received: ANSWER (95.130.17.35) | Round-trip time: 0.189383s
+[2025-10-28 10:01:09.333] Resolving NS record: ns2.idnscan.net.
+[2025-10-28 10:01:09.493] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (m.gtld-servers.net.) | Round-trip time: 0.160005s
+[2025-10-28 10:01:09.648] DNS server IP contacted: 192.55.83.30 (TLD) | Response or referral received: REFERRAL (ns1.domainers.de.) | Round-trip time: 0.153604s
+[2025-10-28 10:01:09.650] Resolving NS record: ns1.domainers.de.
+[2025-10-28 10:01:09.807] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.nic.de.) | Round-trip time: 0.157324s
+[2025-10-28 10:01:10.008] DNS server IP contacted: 194.0.0.53 (TLD) | Response or referral received: REFERRAL (ns3.domainers.de.) | Round-trip time: 0.197119s
+[2025-10-28 10:01:10.203] DNS server IP contacted: 95.130.16.246 (Authoritative) | Response or referral received: ANSWER (95.130.16.246) | Round-trip time: 0.192538s
+[2025-10-28 10:01:10.204] Resolving NS record: ns2.domainers.de.
+[2025-10-28 10:01:10.364] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.nic.de.) | Round-trip time: 0.159386s
+[2025-10-28 10:01:10.553] DNS server IP contacted: 194.0.0.53 (TLD) | Response or referral received: REFERRAL (ns3.domainers.de.) | Round-trip time: 0.187564s
+[2025-10-28 10:01:10.755] DNS server IP contacted: 95.130.17.218 (Authoritative) | Response or referral received: ANSWER (95.130.17.218) | Round-trip time: 0.199612s
+[2025-10-28 10:01:10.756] Resolving NS record: ns3.domainers.de.
+[2025-10-28 10:01:10.915] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.nic.de.) | Round-trip time: 0.158207s
+[2025-10-28 10:01:11.099] DNS server IP contacted: 194.0.0.53 (TLD) | Response or referral received: REFERRAL (ns4.domainers.de.) | Round-trip time: 0.182312s
+[2025-10-28 10:01:11.276] DNS server IP contacted: 217.146.22.194 (Authoritative) | Response or referral received: ANSWER (217.146.22.194) | Round-trip time: 0.175137s
+[2025-10-28 10:01:11.277] Resolving NS record: ns4.domainers.de.
+[2025-10-28 10:01:11.437] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (a.nic.de.) | Round-trip time: 0.159173s
+[2025-10-28 10:01:11.623] DNS server IP contacted: 194.0.0.53 (TLD) | Response or referral received: REFERRAL (ns4.domainers.de.) | Round-trip time: 0.184103s
+[2025-10-28 10:01:11.796] DNS server IP contacted: 144.76.91.137 (Authoritative) | Response or referral received: ANSWER (144.76.91.137) | Round-trip time: 0.173247s
+[2025-10-28 10:01:11.991] DNS server IP contacted: 95.130.16.246 (Authoritative) | Response or referral received: ANSWER (95.130.17.35) | Round-trip time: 0.193442s
+[2025-10-28 10:01:22.002] DNS server IP contacted: 95.130.17.35 (Authoritative) | Response: FAILED | Round-trip time: 10.009414s
+[2025-10-28 10:01:22.002] RESOLUTION_FAILED: us.tf. | Total time to resolution: 15.6491s
+[FINAL_STATE: FAILED]
+
+[2025-10-28 10:00:55.472] Domain name queried: iag-inc.com. | Resolution mode: Iterative
+[2025-10-28 10:00:55.640] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.167331s
+[2025-10-28 10:00:55.808] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (domain-may-be-for-sale-at.edoms.biz.) | Round-trip time: 0.167844s
+[2025-10-28 10:00:55.808] Resolving NS record: domain-may-be-for-sale-at.edoms.biz.
+[2025-10-28 10:00:55.989] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (b.gtld.biz.) | Round-trip time: 0.180864s
+[2025-10-28 10:00:56.066] DNS server IP contacted: 156.154.125.65 (TLD) | Response or referral received: REFERRAL (contact-us-at.edoms.biz.) | Round-trip time: 0.068964s
+[2025-10-28 10:01:11.382] DNS server IP contacted: 103.224.182.9 (Authoritative) | Response or referral received: ANSWER (103.224.182.9) | Round-trip time: 15.315884s
+[2025-10-28 10:01:11.384] Resolving NS record: contact-us-at.edoms.biz.
+[2025-10-28 10:01:11.551] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (b.gtld.biz.) | Round-trip time: 0.166533s
+[2025-10-28 10:01:11.616] DNS server IP contacted: 156.154.125.65 (TLD) | Response or referral received: REFERRAL (domain-may-be-for-sale-at.edoms.biz.) | Round-trip time: 0.062476s
+[2025-10-28 10:01:26.929] DNS server IP contacted: 103.224.182.9 (Authoritative) | Response or referral received: ANSWER (103.224.182.10) | Round-trip time: 15.311159s
+[2025-10-28 10:01:27.225] DNS server IP contacted: 103.224.182.9 (Authoritative) | Response or referral received: ANSWER (103.224.182.253) | Round-trip time: 0.296272s
+[2025-10-28 10:01:27.226] RESOLUTION_COMPLETE: iag-inc.com. | IP: 103.224.182.253 | Total time to resolution: 31.7530s | SERVERS_VISITED: 15
+
+[2025-10-28 10:01:27.257] Domain name queried: wrestlingfanssuck.com. | Resolution mode: Iterative
+[2025-10-28 10:01:27.431] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.173708s
+[2025-10-28 10:01:27.590] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (dns2.technorail.com.) | Round-trip time: 0.157118s
+[2025-10-28 10:01:27.773] DNS server IP contacted: 95.110.136.8 (Authoritative) | Response or referral received: ANSWER (62.149.128.40) | Round-trip time: 0.181062s
+[2025-10-28 10:01:27.775] RESOLUTION_COMPLETE: wrestlingfanssuck.com. | IP: 62.149.128.40 | Total time to resolution: 0.5174s | SERVERS_VISITED: 3
+
+[2025-10-28 10:01:27.806] Domain name queried: zzxu.cn. | Resolution mode: Iterative
+[2025-10-28 10:01:27.984] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (e.dns.cn.) | Round-trip time: 0.177905s
+[2025-10-28 10:01:28.170] DNS server IP contacted: 203.119.29.1 (TLD) | Response or referral received: REFERRAL (ns1.judns.com.) | Round-trip time: 0.184570s
+[2025-10-28 10:01:28.170] Resolving NS record: ns1.judns.com.
+[2025-10-28 10:01:28.345] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.174765s
+[2025-10-28 10:01:28.513] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (dns9.hichina.com.) | Round-trip time: 0.165501s
+[2025-10-28 10:01:28.816] DNS server IP contacted: 120.76.107.42 (Authoritative) | Response or referral received: ANSWER (47.97.51.45) | Round-trip time: 0.300116s
+[2025-10-28 10:01:28.816] Resolving NS record: ns2.judns.com.
+[2025-10-28 10:01:28.994] DNS server IP contacted: 198.41.0.4 (Root) | Response or referral received: REFERRAL (l.gtld-servers.net.) | Round-trip time: 0.178064s
+[2025-10-28 10:01:29.151] DNS server IP contacted: 192.41.162.30 (TLD) | Response or referral received: REFERRAL (dns9.hichina.com.) | Round-trip time: 0.154851s
+[2025-10-28 10:01:29.450] DNS server IP contacted: 120.76.107.42 (Authoritative) | Response or referral received: ANSWER (162.159.27.251) | Round-trip time: 0.295823s
+[FINAL_STATE: FAILED]
+
