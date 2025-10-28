@@ -11,16 +11,6 @@ RESOLVER_PORT = 53
 LOG_FILE_NAME = 'resolver_events.log'
 NETWORK_TIMEOUT = 5
 
-QUERY_COUNT = 0
-QUERY_MUTEX = threading.Lock()
-
-ACTIVE_TIME = 0.0  # total time spent processing queries (excluding throttle)
-ACTIVE_TIME_MUTEX = threading.Lock()
-
-THROTTLE_LOCK = threading.Lock()  # used to block new queries when throttling
-THROTTLED = False  # indicates if we’re in throttle mode
-
-
 def log_event(query_log, message):
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
     log_line = f"[{timestamp}] {message}"
@@ -130,73 +120,11 @@ def perform_iterative_resolution(sock, query_pkt, query_log, servers_visited, de
         else:
             return None
 
-# def dispatch_query(data, client_address, listen_socket):
-#     query_log = []
-#     servers_visited_count = [0]
-#     query_socket = None
-    
-#     try:
-#         query_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-#         query_socket.settimeout(NETWORK_TIMEOUT)
-
-#         incoming_packet = DNS(data)
-#         domain_to_query = incoming_packet.qd[0].qname
-#         packet_to_forward = DNS(qd=DNSQR(qname=domain_to_query))
-
-#         final_ip_address = perform_iterative_resolution(query_socket, packet_to_forward, query_log, servers_visited_count)
-
-#         if final_ip_address:
-#             reply_packet = DNS(
-#                 id=incoming_packet.id, qr=1, aa=0, ra=1, rcode=0,
-#                 qd=incoming_packet.qd,
-#                 an=DNSRR(rrname=incoming_packet.qd.qname, type='A', ttl=60, rdata=final_ip_address)
-#             )
-#             listen_socket.sendto(raw(reply_packet), client_address)
-#             print(f"[REPLY] {domain_to_query.decode()} -> {final_ip_address} (to {client_address[0]})")
-
-#     except Exception as e:
-#         print(f"[WORKER_FAILURE] {e}")
-
-#     finally:
-#         if query_socket:
-#             query_socket.close()
-
-#         with LOG_MUTEX:
-#             with open(LOG_FILE_NAME, 'a') as f:
-#                 if not query_log or "RESOLUTION_COMPLETE" not in query_log[-1]:
-#                     query_log.append(f"[FINAL_STATE: FAILED]")
-#                 f.write("\n".join(query_log) + "\n\n")
-
 def dispatch_query(data, client_address, listen_socket):
-    global QUERY_COUNT, ACTIVE_TIME, THROTTLED
     query_log = []
     servers_visited_count = [0]
     query_socket = None
-
-    # Wait if currently throttled
-    while True:
-        with QUERY_MUTEX:
-            if not THROTTLED:
-                break
-        time.sleep(0.1)  # short wait, prevents spinning
-
-    with QUERY_MUTEX:
-        QUERY_COUNT += 1
-        current_query_num = QUERY_COUNT
-
-        if current_query_num % 75 == 0:
-            print(f"[THROTTLE] 75 queries processed. Sleeping for 60 seconds...")
-            THROTTLED = True
-            def do_throttle():
-                global THROTTLED
-                time.sleep(60)
-                with QUERY_MUTEX:
-                    THROTTLED = False
-                print("[THROTTLE] Resuming normal query processing.")
-            threading.Thread(target=do_throttle, daemon=True).start()
-
-    start_active = time.time()
-
+    
     try:
         query_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         query_socket.settimeout(NETWORK_TIMEOUT)
@@ -220,10 +148,6 @@ def dispatch_query(data, client_address, listen_socket):
         print(f"[WORKER_FAILURE] {e}")
 
     finally:
-        end_active = time.time()
-        with ACTIVE_TIME_MUTEX:
-            ACTIVE_TIME += (end_active - start_active)
-
         if query_socket:
             query_socket.close()
 
@@ -232,7 +156,6 @@ def dispatch_query(data, client_address, listen_socket):
                 if not query_log or "RESOLUTION_COMPLETE" not in query_log[-1]:
                     query_log.append(f"[FINAL_STATE: FAILED]")
                 f.write("\n".join(query_log) + "\n\n")
-
 
 def init_resolver():
     main_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
